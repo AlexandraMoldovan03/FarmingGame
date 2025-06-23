@@ -2,21 +2,44 @@ using UnityEngine;
 
 public class PlantSystem : MonoBehaviour
 {
-    public GameObject[] plantPrefabs; // trebuie s? corespund? ordinii produselor (ex: porumb, grâu, etc.)
-    public GameObject fieldParent; // obiectul care con?ine toate celulele din teren (tile-urile)
+    public GameObject[] plantPrefabs;        
+    public Transform fieldParent;            
+    private int selectedPlantId = -1;        
 
-    public void Plant(int productId)
+    public LayerMask fieldLayer;             
+
+    public void SelectPlantForPlanting(int id)
     {
-        foreach (Transform cell in fieldParent.transform)
+        selectedPlantId = id;
+        Debug.Log("Planta selectat? pentru plantare: " + id);
+    }
+
+    void Update()
+    {
+        if (Input.GetMouseButtonDown(0) && selectedPlantId != -1)
         {
-            if (cell.childCount == 0) // dac? celula e liber?
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            if (Physics.Raycast(ray, out RaycastHit hit, Mathf.Infinity, fieldLayer))
             {
-                Instantiate(plantPrefabs[productId], cell.position, Quaternion.identity, cell);
-                Debug.Log("Plantat " + productId + " în celula: " + cell.name);
-                return;
+                
+                Vector3 position = hit.transform.position;
+
+                
+                if (hit.transform.childCount == 0)
+                {
+                    PlantAt(position, hit.transform);
+                }
+                else
+                {
+                    Debug.Log("Acest câmp este deja ocupat!");
+                }
             }
         }
+    }
 
-        Debug.Log("Nu exist? celule libere pentru plantat!");
+    void PlantAt(Vector3 position, Transform parent)
+    {
+        GameObject plant = Instantiate(plantPrefabs[selectedPlantId], position + new Vector3(0, 0.1f, 0), Quaternion.identity, parent);
+        plant.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f); 
     }
 }

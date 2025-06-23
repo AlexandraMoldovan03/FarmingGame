@@ -3,7 +3,7 @@ using TMPro;
 
 public class GoldSystem : MonoBehaviour
 {
-    public int gold = 100;
+    public int gold = 1000;
     public TextMeshProUGUI goldText;
 
     void Start()

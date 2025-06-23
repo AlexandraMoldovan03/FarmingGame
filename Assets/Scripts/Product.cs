@@ -38,16 +38,10 @@ public class Product : MonoBehaviour
         if (goldSystem.gold >= price)
         {
             goldSystem.gold -= price;
-            Debug.Log("Ai cump?rat: " + productName);
-            buyButton.interactable = false;
 
-            // Plantare la o pozi?ie fix? de test
-            Vector3 plantPosition = new Vector3(Random.Range(-5f, 5f), 0, 0); // sau pozi?ia mouse-ului
-            FindObjectOfType<PlantManager>().Plant(id, plantPosition);
-        }
-        else
-        {
-            Debug.Log("Nu ai suficient aur pentru " + productName);
+            // Notific? PlantSystem c? am cump?rat planta
+            PlantSystem plantSystem = GameObject.Find("PlantSystem").GetComponent<PlantSystem>();
+            plantSystem.SelectPlantForPlanting(id); // id = indexul plantei cump?rate
         }
     }
 
