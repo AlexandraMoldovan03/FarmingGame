@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alemo\\Farming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|c:\\users\\alemo\\farming\\assets\\scripts\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alemo\\Farming\\Assets\\Scripts\\PlantManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlantManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|C:\\Users\\alemo\\Farming\\assets\\scripts\\plantsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plantsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|c:\\users\\alemo\\farming\\assets\\scripts\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|C:\\Users\\alemo\\Farming\\assets\\scripts\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|C:\\Users\\alemo\\Farming\\assets\\scripts\\goldsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goldsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|C:\\Users\\alemo\\Farming\\assets\\scripts\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|C:\\Users\\alemo\\Farming\\assets\\scripts\\fieldbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A00DE8-2BF4-A024-B226-EE9E5DA7B34A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fieldbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alemo\\Farming\\Assets\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantManager.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\PlantManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlantManager.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\PlantManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlantManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:52:47.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\Plant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plant.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\Plant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:52:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlantSystem.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\PlantSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlantSystem.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\PlantSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlantSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:44:36.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\Product.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Product.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\Product.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Product.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:13:02.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shop.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\Shop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T10:10:18.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoldSystem.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\GoldSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoldSystem.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\GoldSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoldSystem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:16:26.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:15:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FieldBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\FieldBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FieldBehaviour.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\FieldBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FieldBehaviour.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T20:42:39.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\GameGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameGrid.cs",
+              "ToolTip": "C:\\Users\\alemo\\Farming\\Assets\\Scripts\\GameGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:33:40.933Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
